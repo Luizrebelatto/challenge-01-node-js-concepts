@@ -28,7 +28,7 @@ Aplicação para Gerenciamento de Tarefas
 - cors
 - jest
 
-##  📱  Features
+## 🛠️ Features
 
 - Criar Usuário
 - Cadastrar Tarefas
@@ -37,7 +37,7 @@ Aplicação para Gerenciamento de Tarefas
 - Alterar estado da tarefa
 - Deletar tarefa
 
-##  📱  Rotas
+## 📱 Rotas
 
 - POST → /users
 - GET → /todos
