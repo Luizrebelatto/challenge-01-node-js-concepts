@@ -48,7 +48,7 @@ Aplicação para Gerenciamento de Tarefas
 ## 🚀 Como executar
 
 1) Clonar o projeto do github:
-    git clone https://github.com/Luizrebelatto/app-financas
+    `git clone https://github.com/Luizrebelatto/challenge-01-node-js-concepts.git`
 
 2) Abrir terminal(CMD/TERMINAL ou VSCode/CMD) e acessar a pasta raiz do projeto (pelo terminal).
     
