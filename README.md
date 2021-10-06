@@ -29,7 +29,7 @@ Aplicação para Gerenciamento de Tarefas
 - cors
 - jest
 
-## 🛠️ Funcionalidades
+## 💻 Funcionalidades
 - Criar Usuário
 - Cadastrar Tarefas
 - Mostrar Tarefas
