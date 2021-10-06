@@ -30,7 +30,6 @@ Aplicação para Gerenciamento de Tarefas
 - jest
 
 ## 🛠️ Funcionalidades
-
 - Criar Usuário
 - Cadastrar Tarefas
 - Mostrar Tarefas
