@@ -39,10 +39,11 @@ Aplicação para Gerenciamento de Tarefas
 ## 📱 Rotas
 
 - POST → /users
+- POST → /todos
 - GET → /todos
 - PUT → /todos/:id
 - PATCH → /todos/:id/done
-- PATCH → /todos/:id/done
+- DELETE → /todos/:id
 
 
 ## 🚀 Como executar
