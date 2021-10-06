@@ -1,54 +1,69 @@
-# Desafio 01 - Conceitos do Node.js
+<h1 align="center">To Do</h1>
 
-Project
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-- ToDo - Aplicação para Gerenciamento de Tarefas
+<br>
 
----
+## 💻 Projeto
 
-<b>Techs</b>
+Aplicação para Gerenciamento de Tarefas
 
+## ✨ Tecnologias
 - Node
-- Javascript
+- JavaScript
 - Insomnia
 - express
 - nodemon
 
----
+## 📚 Bibliotecas
+- uuid
+- supertest
+- cors
+- jest
 
-Libs
+##  📱  Features
 
-- uuid → Criar id automaticamente
-- supertest →
-- cors → Usar middleware
-- jest →
-
----
-
-Features
-
-- Criar usuário
-- Criar tarefas
-- Mostrar tarefas criadas
+- Criar Usuário
+- Cadastrar Tarefas
+- Mostrar Tarefas
 - Atualizar titulo e prazo da tarefa
 - Alterar estado da tarefa
 - Deletar tarefa
 
+##  📱  Rotas
+
+- POST → /users
+- GET → /todos
+- PUT → /todos/:id
+- PATCH → /todos/:id/done
+- PATCH → /todos/:id/done
+
+
+## 🚀 Como executar
+
+1) - Clonar o projeto do github:
+    git clone https://github.com/Luizrebelatto/app-financas
+
+2) - Abrir terminal(CMD/TERMINAL ou VSCode/CMD) e acessar a pasta raiz do projeto (pelo terminal).
+    
+
+3) - Instalar Dependências:
+  execute `yarn`
+
+
+4) - Rodar Aplicação:
+    `yarn dev`
+      
+    
 ---
 
-Routes
+Desenvolvido por👋🏻:
+- [Luiz Gabriel Rebelatto](https://www.linkedin.com/in/luiz-gabriel-rebelatto-bianchi-67097413b/)
 
-- POST/users
-- GET/todos
-- PUT/todos/:id
-- PATCH/todos/:id/done
-- DELETE/todos/:id
 
----
-
-Setup
-
-- install yarn
-- git clone
-- acesse a pasta do programa
--
