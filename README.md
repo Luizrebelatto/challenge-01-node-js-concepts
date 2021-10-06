@@ -6,7 +6,7 @@ Project
 
 ---
 
-Techs
+<b>Techs</b>
 
 - Node
 - Javascript
