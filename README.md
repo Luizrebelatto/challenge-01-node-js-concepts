@@ -47,17 +47,17 @@ Aplicação para Gerenciamento de Tarefas
 
 ## 🚀 Como executar
 
-1) - Clonar o projeto do github:
+1) Clonar o projeto do github:
     git clone https://github.com/Luizrebelatto/app-financas
 
-2) - Abrir terminal(CMD/TERMINAL ou VSCode/CMD) e acessar a pasta raiz do projeto (pelo terminal).
+2) Abrir terminal(CMD/TERMINAL ou VSCode/CMD) e acessar a pasta raiz do projeto (pelo terminal).
     
 
-3) - Instalar Dependências:
+3) Instalar Dependências:
   execute `yarn`
 
 
-4) - Rodar Aplicação:
+4) Rodar Aplicação no http://localhost:3333:
     `yarn dev`
       
     
