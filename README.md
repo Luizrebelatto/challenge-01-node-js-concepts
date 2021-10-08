@@ -60,8 +60,10 @@ Aplicação para Gerenciamento de Tarefas
 
 4) Rodar Aplicação no http://localhost:3333:
     `yarn dev`
-      
     
+4) Rodar testes:
+    `yarn test`
+      
 ---
 
 Desenvolvido por👋🏻:
