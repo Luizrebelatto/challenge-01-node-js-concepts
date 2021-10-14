@@ -50,8 +50,9 @@ Aplicação para Gerenciamento de Tarefas
 - [x] Todos should not be able to update a non existing todo
 - [x] Todos should be able to mark a todo as done
 - [x] Todos should not be able to mark a non existing todo as done
-- [x] Todos should be able to delete a todo
 - [x] Todos should not be able to delete a non existing todo
+- [x] Todos should be able to delete a todo
+
 
 ## 📱 Rotas
 
